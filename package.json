@@ -2,8 +2,8 @@
   "name": "yelpcamp",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
-  "entines": {
+  "main": "index.js",
+  "engines": {
     "node": "16.x",
     "npm": "8.x"
   },
