@@ -2,7 +2,11 @@
   "name": "yelpcamp",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
+  "entines": {
+    "node": "16.x",
+    "npm": "8.x"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js"
